@@ -6,7 +6,7 @@ shcov (3)
 	* Catch exception if file save fails (this might be because the target
 	dir isn't writable yet, so just ignore it)
 
-        -- Simon Kagstrom <simon.kagstrom@gmail.com>,
+        -- Simon Kagstrom <simon.kagstrom@gmail.com>, Sun Jan 11 20:31:12 CET 2009
 
 shcov (2)
 	* Added the ability to set low and high percentage limits (the
